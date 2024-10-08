@@ -1,4 +1,4 @@
-(function ($) {
+$(document).ready(function(){
     "use strict";
 
     // Sticky Navbar
@@ -56,5 +56,5 @@
         ]
     });
     
-})(jQuery);
+});
 
